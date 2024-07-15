@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Darth Vader",
+      "price": "50",
+      "image": "https://m.media-amazon.com/images/I/61s6vlqz-LL._AC_UL320_.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Hulk",
+      "price": "30",
+      "image": "https://m.media-amazon.com/images/I/61zbaBT5JxL._AC_UL320_.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Luke",
+      "price": "80",
+      "image": "https://m.media-amazon.com/images/I/61-+j8HB7KL._AC_UL320_.jpg",
+      "id": "3"
+    },
+    {
+        "name": "Aang",
+        "price": "60",
+        "image": "https://m.media-amazon.com/images/I/71PaHRsx8BL._AC_UL320_.jpg",
+        "id": "4"
+      }
+    ]
+}
